@@ -1,0 +1,12 @@
+Task1:
+    Implemented a RAG based pdf semantic search tool using langchain Groq llm,HF_splitters,embeddings and Faiss Vector DB for storing the embedding vectors
+    Also used similarity search to return similar embeddings and search through a pdf likewise
+
+Task2:
+    Implemented Groq LLM to analyse user sentiment,confidence in predicting,user empathy score,WPM and return them using streamlit
+
+Task3:
+    Implemented a NL to SQL query converter using Groq LLM with fastAPI as backend
+Task4:
+    Implemented an AI Trvael Planning Agent using Groq LLM,local pdfs and few free API's for travel info like hotels/flights/weather etc.
+    

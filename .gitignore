@@ -1,0 +1,13 @@
+# Secrets
+.env
+mcp/services/creds.json
+
+# Generated/temp files
+temp/
+
+# Python virtual environment
+Myenv/
+venv/
+.venv/
+__pycache__/
+*.pyc
